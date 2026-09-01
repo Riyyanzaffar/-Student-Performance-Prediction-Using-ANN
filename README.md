@@ -1,4 +1,6 @@
 # 🎓 Student Performance Prediction Using ANN
+🚀 **Live Interactive App:**
+https://student-performance001.streamlit.app/
 
 ## 📌 About the Project
 
@@ -195,4 +197,7 @@ This project demonstrates how **Artificial Neural Networks can be used to predic
 
 From data preprocessing to model training, evaluation, and user-based prediction, the complete machine learning workflow was implemented.
 
-**Built with Python, TensorFlow/Keras, and Scikit-learn. 🚀**
+
+
+
+
